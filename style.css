@@ -1,0 +1,31 @@
+body {
+    color: dimgrey;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+li {
+    font-weight: 300;
+    font-style: oblique;
+    color: darkblue;
+}
+
+img {
+    border: 10px black solid;
+    border-radius: 10px;
+    width: 200px;
+    margin: 0;
+    padding: 0;
+}
+
+button {
+    width: auto;
+    height: auto;
+    margin: 0;
+    padding: 0;
+}
+
+p {
+    font-size: large;
+    font-weight: bold;
+    color: red;
+}
